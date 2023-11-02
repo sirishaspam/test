@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Error Page</title>
+</head>
+<body>
+    <h1>Access Denied</h1>
+    <p>Sorry, but access to this website is restricted for visitors outside the United States.</p>
+</body>
+</html>
